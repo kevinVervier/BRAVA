@@ -1,0 +1,6 @@
+export files:
+/wdata/kvervier/spatioTemp_SLINGER/input/hic/GSE77565_FBD_IC-heatmap-res-100k_average_connected_bins_Mat_corrected.Rdata
+/wdata/kvervier/spatioTemp_SLINGER/input/hic/GSE77565_FBD_IC-heatmap-res-100k_weighted_average_connected_bins_Mat_corrected.Rdata
+
+  load('/sdata/Hi-C/geschwind/jake/genes_to_TADs.Rdata')
+  load('/sdata/Hi-C/geschwind/jake/developing_brain_TADs.Rdata')

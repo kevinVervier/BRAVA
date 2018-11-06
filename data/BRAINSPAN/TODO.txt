@@ -1,0 +1,5 @@
+add brainspan imputed data (cf /sdata/BRAINSPAN/Brain_span.rdata)
+
+# currently getting the brain regions by loading:   /wdata/common/brainspan/BrainSpan2cerebroViz.Rda
+only to do:   
+lab.region = rownames(expr[[1]])

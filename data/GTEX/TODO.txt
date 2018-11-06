@@ -1,0 +1,1 @@
+add GTEX eqtl data (/sdata/GTex_eQTl/GTex_eQTL/V6/GTEx_Analysis_V6_eQTLs/Brain_snps.db)

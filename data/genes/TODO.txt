@@ -1,0 +1,2 @@
+Here we need the Gencode file for all the gene locations: /wdata/kvervier/PrediXcan/input/gencode
+TODO: probably better to simply use bioMart
